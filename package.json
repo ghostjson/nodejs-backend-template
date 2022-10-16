@@ -1,5 +1,5 @@
 {
-  "name": "backend-library",
+  "name": "nodejs-backend-template",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
