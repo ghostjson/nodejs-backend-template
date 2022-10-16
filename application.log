@@ -1,0 +1,701 @@
+[2022-10-13T19:42:45.138] [INFO] Server - All middlewares are initialised
+[2022-10-13T19:42:45.142] [DEBUG] Server - controller loaded to the path
+[2022-10-13T19:42:45.143] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T19:43:05.725] [INFO] Server - All middlewares are initialised
+[2022-10-13T19:43:05.730] [DEBUG] Server - controller loaded to the path
+[2022-10-13T19:43:05.730] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T19:43:05.735] [INFO] Server - Listening to the port 3000
+[2022-10-13T19:50:25.422] [INFO] Server - All middlewares are initialised
+[2022-10-13T19:50:25.426] [DEBUG] Server - controller loaded to the path
+[2022-10-13T19:50:25.427] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T19:50:25.432] [INFO] Server - Listening to the port 3000
+[2022-10-13T19:50:50.570] [INFO] Server - All middlewares are initialised
+[2022-10-13T19:50:50.575] [DEBUG] Server - controller loaded to the path
+[2022-10-13T19:50:50.575] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T19:50:50.581] [INFO] Server - Listening to the port 3000
+[2022-10-13T19:54:01.135] [INFO] Server - All middlewares are initialised
+[2022-10-13T19:54:01.141] [DEBUG] Server - controller loaded to the path
+[2022-10-13T19:54:01.141] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T19:54:01.146] [INFO] Server - Listening to the port 3000
+[2022-10-13T19:54:30.326] [INFO] Server - All middlewares are initialised
+[2022-10-13T19:54:30.331] [DEBUG] Server - controller loaded to the path
+[2022-10-13T19:54:30.331] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T19:54:30.336] [INFO] Server - Listening to the port 3000
+[2022-10-13T19:54:44.260] [INFO] Server - All middlewares are initialised
+[2022-10-13T19:54:44.264] [DEBUG] Server - controller loaded to the path
+[2022-10-13T19:54:44.265] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T19:54:44.270] [INFO] Server - Listening to the port 3000
+[2022-10-13T19:54:56.158] [INFO] Server - All middlewares are initialised
+[2022-10-13T19:54:56.162] [DEBUG] Server - controller loaded to the path
+[2022-10-13T19:54:56.163] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T19:54:56.167] [INFO] Server - Listening to the port 3000
+[2022-10-13T19:56:35.504] [INFO] Server - All middlewares are initialised
+[2022-10-13T19:56:35.513] [DEBUG] Server - controller loaded to the path
+[2022-10-13T19:56:35.515] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T19:56:35.522] [INFO] Server - Listening to the port 3000
+[2022-10-13T19:57:02.559] [INFO] Server - All middlewares are initialised
+[2022-10-13T19:57:02.565] [DEBUG] Server - controller loaded to the path
+[2022-10-13T19:57:02.565] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T19:57:02.571] [INFO] Server - Listening to the port 3000
+[2022-10-13T19:57:35.408] [INFO] Server - All middlewares are initialised
+[2022-10-13T19:57:35.412] [DEBUG] Server - controller loaded to the path
+[2022-10-13T19:57:35.412] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T19:57:35.417] [INFO] Server - Listening to the port 3000
+[2022-10-13T19:57:41.991] [INFO] Server - All middlewares are initialised
+[2022-10-13T19:57:41.997] [DEBUG] Server - controller loaded to the path
+[2022-10-13T19:57:41.997] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T19:57:42.001] [INFO] Server - Listening to the port 3000
+[2022-10-13T19:57:58.808] [INFO] Server - All middlewares are initialised
+[2022-10-13T19:57:58.814] [DEBUG] Server - controller loaded to the path
+[2022-10-13T19:57:58.815] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T19:57:58.820] [INFO] Server - Listening to the port 3000
+[2022-10-13T19:58:14.722] [INFO] Server - All middlewares are initialised
+[2022-10-13T19:58:14.731] [DEBUG] Server - controller loaded to the path
+[2022-10-13T19:58:14.732] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T19:58:14.738] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:00:10.334] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:00:10.343] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:00:10.344] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:00:10.348] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:08:55.445] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:08:55.452] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:08:55.453] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:08:55.458] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:09:18.209] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:09:18.216] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:09:18.217] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:09:18.221] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:09:34.108] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:09:34.116] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:09:34.117] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:09:34.122] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:09:36.099] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:09:36.105] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:09:36.107] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:09:36.112] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:09:44.275] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:09:44.280] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:09:44.280] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:09:44.285] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:10:23.753] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:10:23.757] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:10:23.758] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:10:23.763] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:10:32.464] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:10:32.468] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:10:32.468] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:10:32.472] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:10:38.689] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:10:38.694] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:10:38.694] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:10:38.698] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:11:12.134] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:11:12.140] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:11:12.140] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:11:12.145] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:11:56.361] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:11:56.365] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:11:56.366] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:11:56.371] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:11:57.595] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:11:57.600] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:11:57.601] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:11:57.605] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:12:19.509] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:12:19.514] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:12:19.514] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:12:19.520] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:12:51.745] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:12:51.750] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:12:51.750] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:12:51.755] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:13:35.829] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:13:35.833] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:13:35.834] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:13:35.838] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:14:30.150] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:14:30.156] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:14:30.156] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:14:30.163] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:14:53.453] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:14:53.458] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:14:53.459] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:14:53.463] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:15:31.086] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:15:31.090] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:15:31.090] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:15:31.094] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:15:53.099] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:15:53.107] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:19:59.933] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:19:59.941] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:20:02.751] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:20:02.756] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:20:02.757] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:20:02.761] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:20:09.084] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:20:09.089] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:20:09.090] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:20:09.095] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:20:17.710] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:20:17.717] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:20:17.718] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:20:17.722] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:23:56.153] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:23:56.160] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:23:56.160] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:23:56.165] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:27:40.141] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:27:40.145] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:27:40.146] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:27:40.152] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:27:57.042] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:27:57.047] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:27:57.047] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:27:57.055] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:28:05.004] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:28:05.012] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:28:05.013] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:28:05.020] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:29:05.029] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:29:05.039] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:29:05.040] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:29:05.051] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:29:27.773] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:29:27.778] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:29:27.778] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:29:27.782] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:29:52.770] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:29:52.775] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:29:52.775] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:29:52.783] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:30:03.878] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:30:03.884] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:30:03.884] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:30:03.890] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:30:14.371] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:30:14.377] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:30:14.378] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:30:14.384] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:30:31.784] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:30:31.790] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:30:31.791] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:30:31.796] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:30:43.206] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:30:43.211] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:30:43.211] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:30:43.216] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:30:55.200] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:30:55.205] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:30:55.206] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:30:55.210] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:35:51.473] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:35:51.478] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:35:51.478] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:35:51.484] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:36:08.773] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:36:08.778] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:36:08.779] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:36:08.784] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:40:14.895] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:40:14.901] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:40:14.901] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:40:14.908] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:48:27.108] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:48:27.114] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:48:27.114] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:48:27.119] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:53:10.621] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:53:10.627] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:53:10.627] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:53:10.632] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:53:43.326] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:53:43.334] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:53:43.334] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:53:43.340] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:53:55.952] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:53:55.959] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:53:55.961] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:53:55.966] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:54:26.082] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:54:26.089] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:54:26.089] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:54:26.094] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:54:58.183] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:54:58.191] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:54:58.191] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:54:58.196] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:55:00.371] [INFO] DemoController - [ { name: 'demo1', age: 12 }, { name: 'demo2', age: 22 } ]
+[2022-10-13T20:55:05.889] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:55:05.897] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:55:05.897] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:55:05.902] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:55:18.444] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:55:18.451] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:55:18.452] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:55:18.458] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:56:21.439] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:56:21.446] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:56:21.447] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:56:21.453] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:56:28.678] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:56:28.685] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:56:28.685] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:56:28.690] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:56:36.542] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:56:36.549] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:56:36.550] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:56:36.555] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:56:44.940] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:56:44.944] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:56:44.945] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:56:44.949] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:57:33.945] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:57:33.949] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:57:33.949] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:57:33.954] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:57:48.780] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:57:48.784] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:57:48.785] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:57:48.789] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:57:54.551] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:57:54.556] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:57:54.556] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:57:54.561] [INFO] Server - Listening to the port 3000
+[2022-10-13T20:58:10.409] [INFO] Server - All middlewares are initialised
+[2022-10-13T20:58:10.414] [DEBUG] Server - controller loaded to the path
+[2022-10-13T20:58:10.414] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T20:58:10.419] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:00:23.956] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:00:23.961] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:00:23.961] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:00:23.968] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:13:34.132] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:13:34.137] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:13:34.137] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:13:34.142] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:13:57.844] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:13:57.850] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:13:57.851] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:13:57.857] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:15:06.908] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:15:06.913] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:15:06.914] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:15:06.920] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:15:36.991] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:15:36.995] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:15:36.996] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:15:37.001] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:16:04.815] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:16:04.820] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:16:04.820] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:16:04.825] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:16:14.485] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:16:14.490] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:16:14.490] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:16:14.495] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:18:33.046] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:18:33.054] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:18:33.057] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:18:33.057] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:18:33.063] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:19:37.357] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:19:37.365] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:19:37.367] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:19:37.367] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:19:37.373] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:22:02.042] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:22:02.049] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:22:02.051] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:22:02.051] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:22:02.056] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:24:01.008] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:24:01.013] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:24:01.015] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:24:01.015] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:24:01.019] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:24:23.812] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:24:23.819] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:24:23.821] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:24:23.821] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:24:23.825] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:25:25.409] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:25:25.415] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:25:25.417] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:25:25.417] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:25:25.422] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:26:59.397] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:26:59.403] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:26:59.405] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:26:59.405] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:26:59.410] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:27:58.696] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:27:58.702] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:27:58.704] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:27:58.704] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:27:58.709] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:28:41.484] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:28:41.490] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:28:41.492] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:28:41.493] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:28:41.497] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:29:04.206] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:29:04.212] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:29:04.214] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:29:04.214] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:29:04.219] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:29:18.262] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:29:18.268] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:29:18.269] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:29:18.270] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:29:18.275] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:29:37.314] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:29:37.322] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:29:37.326] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:29:37.327] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:29:37.334] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:30:02.605] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:30:02.611] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:30:02.613] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:30:02.613] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:30:02.617] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:30:16.835] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:30:16.840] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:30:16.842] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:30:16.843] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:30:16.847] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:30:46.908] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:30:46.915] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:30:46.917] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:30:46.917] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:30:46.921] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:32:31.844] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:32:31.848] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:32:31.850] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:32:31.850] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:32:31.854] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:32:39.536] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:32:39.542] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:32:39.544] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:32:39.544] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:32:39.548] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:33:14.217] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:33:14.221] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:33:14.223] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:33:14.224] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:33:14.228] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:33:21.554] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:33:21.559] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:33:21.561] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:33:21.561] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:33:21.565] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:33:44.673] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:33:44.679] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:33:44.681] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:33:44.682] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:33:44.686] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:34:04.136] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:34:04.142] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:34:04.144] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:34:04.144] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:34:04.149] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:34:11.815] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:34:11.820] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:34:11.821] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:34:11.822] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:34:11.826] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:34:16.982] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:34:16.987] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:34:16.989] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:34:16.989] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:34:16.994] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:34:38.711] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:34:38.717] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:34:38.720] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:34:38.721] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:34:38.728] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:34:49.606] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:34:49.611] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:34:49.614] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:34:49.614] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:34:49.621] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:34:57.538] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:34:57.543] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:34:57.545] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:34:57.545] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:34:57.550] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:35:19.098] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:35:19.102] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:35:19.104] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:35:19.105] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:35:19.110] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:35:24.681] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:35:24.687] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:35:24.689] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:35:24.690] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:35:24.694] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:35:25.521] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:35:25.526] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:35:25.529] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:35:25.530] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:35:25.534] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:35:39.291] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:35:39.297] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:35:39.299] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:35:39.299] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:35:39.304] [INFO] Server - Listening to the port 3000
+[2022-10-13T21:38:23.710] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-13T21:38:23.716] [INFO] Server - All middlewares are initialised
+[2022-10-13T21:38:23.718] [DEBUG] Server - controller loaded to the path
+[2022-10-13T21:38:23.718] [INFO] Server - Controllers are loaded succesfully
+[2022-10-13T21:38:23.722] [INFO] Server - Listening to the port 3000
+[2022-10-16T19:00:17.457] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T19:00:17.463] [INFO] Server - All middlewares are initialised
+[2022-10-16T19:00:17.466] [DEBUG] Server - controller loaded to the path
+[2022-10-16T19:00:17.466] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T19:00:17.471] [INFO] Server - Listening to the port 3000
+[2022-10-16T19:00:50.019] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T19:00:50.025] [INFO] Server - All middlewares are initialised
+[2022-10-16T19:00:50.027] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T19:00:50.027] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T19:00:50.032] [INFO] Server - Listening to the port 3000
+[2022-10-16T19:01:08.499] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T19:01:08.505] [INFO] Server - All middlewares are initialised
+[2022-10-16T19:01:08.506] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T19:01:08.507] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T19:01:08.512] [INFO] Server - Listening to the port 3000
+[2022-10-16T19:02:20.237] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T19:02:20.243] [INFO] Server - All middlewares are initialised
+[2022-10-16T19:02:20.245] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T19:02:20.245] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T19:02:20.250] [INFO] Server - Listening to the port 3000
+[2022-10-16T19:02:28.046] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T19:02:28.051] [INFO] Server - All middlewares are initialised
+[2022-10-16T19:02:28.053] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T19:02:28.054] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T19:02:28.059] [INFO] Server - Listening to the port 3000
+[2022-10-16T19:04:17.533] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T19:04:17.541] [INFO] Server - All middlewares are initialised
+[2022-10-16T19:04:17.543] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T19:04:17.544] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T19:04:17.550] [INFO] Server - Listening to the port 3000
+[2022-10-16T19:04:25.495] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T19:04:25.501] [INFO] Server - All middlewares are initialised
+[2022-10-16T19:04:25.503] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T19:04:25.504] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T19:04:25.509] [INFO] Server - Listening to the port 3000
+[2022-10-16T19:04:32.062] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T19:04:32.069] [INFO] Server - All middlewares are initialised
+[2022-10-16T19:04:32.071] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T19:04:32.072] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T19:04:32.077] [INFO] Server - Listening to the port 3000
+[2022-10-16T19:04:49.685] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T19:04:49.691] [INFO] Server - All middlewares are initialised
+[2022-10-16T19:04:49.693] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T19:04:49.693] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T19:04:49.697] [INFO] Server - Listening to the port 3000
+[2022-10-16T19:21:26.926] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T19:21:26.933] [INFO] Server - All middlewares are initialised
+[2022-10-16T19:21:26.935] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T19:21:26.935] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T19:21:26.941] [INFO] Server - Listening to the port 3000
+[2022-10-16T19:22:08.961] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T19:22:08.968] [INFO] Server - All middlewares are initialised
+[2022-10-16T19:22:08.969] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T19:22:08.970] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T19:22:08.974] [INFO] Server - Listening to the port 3000
+[2022-10-16T19:22:34.720] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T19:22:34.726] [INFO] Server - All middlewares are initialised
+[2022-10-16T19:22:34.728] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T19:22:34.729] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T19:22:34.734] [INFO] Server - Listening to the port 3000
+[2022-10-16T19:22:58.177] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T19:22:58.185] [INFO] Server - All middlewares are initialised
+[2022-10-16T19:22:58.187] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T19:22:58.187] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T19:22:58.193] [INFO] Server - Listening to the port 3000
+[2022-10-16T19:23:08.007] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T19:23:08.013] [INFO] Server - All middlewares are initialised
+[2022-10-16T19:23:08.015] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T19:23:08.016] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T19:23:08.020] [INFO] Server - Listening to the port 3000
+[2022-10-16T19:24:02.249] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T19:24:02.255] [INFO] Server - All middlewares are initialised
+[2022-10-16T19:24:02.257] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T19:24:02.257] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T19:24:02.262] [INFO] Server - Listening to the port 3000
+[2022-10-16T19:24:37.932] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T19:24:37.942] [INFO] Server - All middlewares are initialised
+[2022-10-16T19:24:37.947] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T19:24:37.947] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T19:24:37.955] [INFO] Server - Listening to the port 3000
+[2022-10-16T19:26:41.180] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T19:26:41.188] [INFO] Server - All middlewares are initialised
+[2022-10-16T19:26:41.190] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T19:26:41.190] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T19:26:41.194] [INFO] Server - Listening to the port 3000
+[2022-10-16T19:26:58.112] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T19:26:58.118] [INFO] Server - All middlewares are initialised
+[2022-10-16T19:26:58.120] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T19:26:58.121] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T19:26:58.125] [INFO] Server - Listening to the port 3000
+[2022-10-16T19:27:18.247] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T19:27:18.253] [INFO] Server - All middlewares are initialised
+[2022-10-16T19:27:18.255] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T19:27:18.256] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T19:27:18.260] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:15:25.838] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:15:25.843] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:15:25.845] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:15:25.845] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:15:25.849] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:15:44.956] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:15:44.962] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:15:44.963] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:15:44.964] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:15:44.968] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:15:53.705] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:15:53.710] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:15:53.712] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:15:53.712] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:15:53.716] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:17:21.521] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:17:21.526] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:17:21.527] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:17:21.527] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:17:21.531] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:17:55.765] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:17:55.770] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:17:55.771] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:17:55.771] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:17:55.775] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:18:32.080] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:18:32.085] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:18:32.087] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:18:32.087] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:18:32.091] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:26:28.454] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:26:28.460] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:26:28.462] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:26:28.462] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:26:28.466] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:27:06.909] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:27:06.914] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:27:06.916] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:27:06.916] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:27:06.920] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:27:36.440] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:27:36.445] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:27:36.447] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:27:36.447] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:27:36.451] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:27:51.597] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:27:51.603] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:27:51.604] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:27:51.605] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:27:51.608] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:27:57.540] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:27:57.547] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:27:57.549] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:27:57.549] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:27:57.556] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:28:52.861] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:28:52.866] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:28:52.867] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:28:52.868] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:28:52.872] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:29:10.736] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:29:10.742] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:29:10.743] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:29:10.744] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:29:10.748] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:29:19.925] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:29:19.931] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:29:19.932] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:29:19.932] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:29:19.936] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:29:41.253] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:29:41.258] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:29:41.259] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:29:41.260] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:29:41.263] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:31:32.862] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:31:32.872] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:31:32.873] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:31:32.874] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:31:32.879] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:32:23.994] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:32:24.000] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:32:24.001] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:32:24.001] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:32:24.005] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:34:55.114] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:34:55.118] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:34:55.119] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:34:55.120] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:34:55.123] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:35:06.800] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:35:06.805] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:35:06.806] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:35:06.806] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:35:06.810] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:35:25.930] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:35:25.936] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:35:25.938] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:35:25.938] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:35:25.943] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:35:47.223] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:35:47.229] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:35:47.231] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:35:47.231] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:35:47.236] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:35:57.138] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:35:57.143] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:35:57.144] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:35:57.145] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:35:57.148] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:36:13.115] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:36:13.120] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:36:13.122] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:36:13.122] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:36:13.126] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:36:55.889] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:36:55.895] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:36:55.897] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:36:55.897] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:36:55.901] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:37:00.999] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:37:01.004] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:37:01.006] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:37:01.006] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:37:01.010] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:37:55.873] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:37:55.879] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:37:55.880] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:37:55.880] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:37:55.884] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:38:08.264] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:38:08.269] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:38:08.271] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:38:08.271] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:38:08.275] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:38:36.446] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:38:36.451] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:38:36.452] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:38:36.452] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:38:36.456] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:39:07.513] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:39:07.517] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:39:07.518] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:39:07.519] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:39:07.522] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:39:27.961] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:39:27.966] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:39:27.968] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:39:27.968] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:39:27.972] [INFO] Server - Listening to the port 3000
+[2022-10-16T20:39:54.480] [INFO] Database - couchdb.ts - Connection string is set for database
+[2022-10-16T20:39:54.486] [INFO] Server - All middlewares are initialised
+[2022-10-16T20:39:54.487] [DEBUG] Server - controller loaded to the path/demo
+[2022-10-16T20:39:54.488] [INFO] Server - Controllers are loaded succesfully
+[2022-10-16T20:39:54.492] [INFO] Server - Listening to the port 3000
